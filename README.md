@@ -1,11 +1,11 @@
 # LingooMoon :crescent_moon:
  Video Demo: https://youtu.be/zQ7J1MheQic
  Description:
- '''
+
  *LingooMoon es una aplicacion web construida por dos estudiantes :*
  - Alisson Melisa Ruiz Barahona
  - Hector Danilo Fuentes Aguirre.
- '''
+ 
  **Lenguajes/Recursos utilizados**:
  - Python 
  - Framework Flask
