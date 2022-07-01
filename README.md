@@ -1,6 +1,9 @@
 # LingooMoon
  Video Demo: https://youtu.be/zQ7J1MheQic
  Description:
+ LingooMoon es una aplicacion web construida por dos estudiantes :
+ - Alisson Melisa Ruiz Barahona
+ - Hector Danilo Fuentes Aguirre.
 LingooMoon , es un blog dirigido a estudiantes del idioma ingles 
 Especialmente a personas que andan en busca de informacion concreta de lo que son 
 Phrasal verbs , Idioms y Social expressions , que son temas importantes pero que a la vez
