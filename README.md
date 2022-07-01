@@ -1,4 +1,4 @@
-# LingooMoon
+# LingooMoon :crescent_moon:
  Video Demo: https://youtu.be/zQ7J1MheQic
  Description:
  *LingooMoon es una aplicacion web construida por dos estudiantes :*
