@@ -1,9 +1,15 @@
 # LingooMoon
  Video Demo: https://youtu.be/zQ7J1MheQic
  Description:
- LingooMoon es una aplicacion web construida por dos estudiantes :
+ *LingooMoon es una aplicacion web construida por dos estudiantes :*
  - Alisson Melisa Ruiz Barahona
  - Hector Danilo Fuentes Aguirre.
+ **Lenguajes/Recursos utilizados**:
+ - Python 
+ - Framework Flask
+ - Boostrap
+ - HTML , CSS , Javascript
+ - PostgreSQL
 LingooMoon , es un blog dirigido a estudiantes del idioma ingles 
 Especialmente a personas que andan en busca de informacion concreta de lo que son 
 Phrasal verbs , Idioms y Social expressions , que son temas importantes pero que a la vez
@@ -17,7 +23,10 @@ importantes para mejorar sus habilidades del idioma ingles de una forma autodida
 Dentro de LingooMoon en su pagina principal podemos observar que contiene un menu lateral en donde 
 podemos encontrar las palabras EasyPlanet , MediumPlanet y HardPlanet , estas secciones 
 se refieren a los niveles de dificultad de los temas ya mencionados , dentro de estas secciones 
-por ejemplo en *Easy planet* Se desglosa lo que es -15 Phrasal verbs -15Idioms -15Social expression
+por ejemplo en *Easy planet* Se desglosa lo que es:
+- 15 Phrasal verbs 
+- 15Idioms 
+- 15Social expression
  y al final encontramos un quiz en donde el estudiante pondra a prueba todo lo que aprendio 
 en las secciones anteriores.Es asi como LingooMoon funciona , en donde va incrementando la dificultad mientras mas 
 vocabulario el estudiante tenga que aprender para que lo ponga a prueba en los quizzes de cada nivel. 
